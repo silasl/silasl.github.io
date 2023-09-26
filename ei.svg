@@ -1,0 +1,23 @@
+<svg width="100%" height="100%" viewBox="0 0 1169 1507" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(5.06114,0,0,5.06114,-2447.6,-2162.5)">
+        <g transform="matrix(0.286149,0,0,0.325302,258.165,211.936)">
+            <circle cx="1191.38" cy="1173.46" r="403.538" style="fill:rgb(13,164,121);"/>
+        </g>
+        <g>
+            <g transform="matrix(0.49197,0.0421725,-0.167011,0.508213,-19.5219,-32.1187)">
+                <rect x="1615" y="769.924" width="30.783" height="229.395" style="fill:rgb(13,164,121);"/>
+            </g>
+            <g id="Lighting" transform="matrix(0.539113,-0.0315758,0.158247,0.775657,-599.787,-1095.45)">
+                <g transform="matrix(-2.22294,0.187044,0.850322,-0.765202,3150.62,3439.92)">
+                    <path d="M1434.43,1753.94L1463.85,1999L1405,1999L1434.43,1753.94Z" style="fill:white;"/>
+                </g>
+                <g transform="matrix(2.22294,-0.187044,-0.850322,0.765202,17.8005,959.151)">
+                    <path d="M1434.43,1753.94L1463.85,1999L1405,1999L1434.43,1753.94Z" style="fill:white;"/>
+                </g>
+                <g transform="matrix(-0.612863,0.491402,-1.06599,-0.0166693,4803.49,1413.22)">
+                    <rect x="1615" y="1967.94" width="86" height="182.063" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
